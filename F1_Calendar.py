@@ -1,3 +1,4 @@
+#The values in the distance matrix has been rounded off to prodice whole numbers because routing solver works only with integers.
 from __future__ import print_function
 from ortools.constraint_solver import routing_enums_pb2
 from ortools.constraint_solver import pywrapcp
