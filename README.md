@@ -7,34 +7,37 @@ In 2019, F1 decided to go one step further. They announced their plans to have n
 
 <h2>Objective</h2>
 Inspired by F1's plans, I tried my hands at solving their fixtures issue. The 2020 season will go on as follows :
-<li type="circle">
-  <ul>Melbourne</ul>
-<ul>Sakhir</ul>
-<ul>Hanoi</ul>
-<ul>Shanghai</ul>
-<ul>Zandvoort</ul>
-<ul>Barcelona</ul>
-<ul>Monaco</ul>
-<ul>Baku</ul>
-<ul>Montreal</ul>
-<ul>Le Castellet</ul>
-<ul>Spielberg</ul>
-<ul>Silverstone</ul>
-<ul>Budapest</ul>
-<ul>Spa</ul>
-<ul>Monza</ul>
-<ul>Singapore</ul>
-<ul>Sochi</ul>
-<ul>Suzuka</ul>
-<ul>Austin</ul>
-<ul>Mexico City</ul>
-<ul>Sao Paulo</ul>
-<ul>Abu Dhabi</ul>
-  </li>
-  
-  Distance covered : 111500 kilometres
+
+<ul type="circle">
+  <li>Melbourne</li>
+  <li>Sakhir</li>
+  <li>Hanoi</li>
+  <li>Shanghai</li>
+  <li>Zandvoort</li>
+  <li>Barcelona</li>
+  <li>Monaco</li>
+  <li>Baku</li>
+  <li>Montreal</li>
+  <li>Le Castellet</li>
+  <li>Spielberg</li>
+  <li>Silverstone</li>
+  <li>Budapest</li>
+  <li>Spa</li>
+  <li>Monza</li>
+  <li>Singapore</li>
+  <li>Sochi</li>
+  <li>Suzuka</li>
+  <li>Austin</li>
+  <li>Mexico City</li>
+  <li>Sao Palio</li>
+  <li>Abu Dhabi</li>
+  </ul>
+
+
+  <br>
+Distance covered : 111500 kilometres
 That's huge ! For comparison, radius of earth is 6371 kilometres.
-  
+
 Do you see how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 runds later. 
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
@@ -43,10 +46,12 @@ This is an attempt to create an optimized F1 calendar to cut down unecessary tra
 <ul type="disc">
   <li>Python</li>
   <li><a href="https://developers.google.com/optimization" target="_blank">Google OR-Tools</a></li>
+  </ul>
 
 <h2>Conclusions</h2>
 Personally, I was bewildered by the solutions I got from this program. They seemed too be good to be true !  
 Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be :
+
 <ul type="circle">
 <li>Melbourne</li>
 <li>Singapore</li>
@@ -71,7 +76,8 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
 <li>Mexico</li>
 <li>Sao Paulo</li>
   </ul>
-  ( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )
+<br>  
+( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )
 
 Distance covered : 56766 kilometres
 That's a 49% decrease in distance covered compared to the original schedule.
