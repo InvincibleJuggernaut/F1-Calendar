@@ -81,7 +81,7 @@ Distance covered : 56766 kilometres
 <b><i>That's a 49% decrease in distance covered compared to the original schedule.</i></b><br>
 <br>
 
-<b>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about.</b>
+<i>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about.</i>
   
 
 
