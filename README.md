@@ -78,7 +78,7 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
 <br>  
 ( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
 Distance covered : 56766 kilometres
-That's a 49% decrease in distance covered compared to the original schedule<br>
+<b><i>That's a 49% decrease in distance covered compared to the original schedule.</i></b><br>
 <br>
 
 <b>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about.</b>
