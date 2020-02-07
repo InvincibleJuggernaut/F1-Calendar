@@ -37,11 +37,8 @@ The 2020 season will go on as follows :
 
 
   <br>
-Distance covered : 111500 kilometres
-That's huge ! For comparison, radius of earth is 6371 kilometres.
-<br>
-Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 runds later !
-<br>
+Distance covered : 111500 kilometres. That's huge ! For comparison, radius of earth is 6371 kilometres.<br>
+Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 runds later !<br>
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
 
@@ -52,7 +49,7 @@ This is an attempt to create an optimized F1 calendar to cut down unecessary tra
   </ul>
 
 <h2>Conclusions</h2>
-Personally, I was bewildered by the solutions I got from this program. They seemed too be good to be true !  
+Personally, I was bewildered by the solutions I got from this program. They seemed too be good to be true !  <br>
 Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be :
 
 <ul type="disc">
@@ -80,12 +77,11 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
 <li>Sao Paulo</li>
   </ul>
 <br>  
-( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )
-<br>
+( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
 Distance covered : 56766 kilometres
-That's a 49% decrease in distance covered compared to the original schedule.
+That's a 49% decrease in distance covered compared to the original schedule.<br>
 
-<br>
+
 <b>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about.</b>
   
 
