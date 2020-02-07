@@ -8,7 +8,7 @@ In 2019, F1 decided to go one step further. They announced their plans to have n
 <h2>Objective</h2>
 Inspired by F1's plans, I tried my hands at solving their fixtures issue. 
 <br>
-The 2020 season will go on as follows :
+The 2020 season will go on as follows :<br>
 
 <ul type="disc">
   <li>Melbourne</li>
@@ -50,8 +50,7 @@ This is an attempt to create an optimized F1 calendar to cut down unecessary tra
 
 <h2>Conclusions</h2>
 Personally, I was bewildered by the solutions I got from this program. They seemed too be good to be true !  <br>
-Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be :
-
+Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be : <br>
 <ul type="disc">
 <li>Melbourne</li>
 <li>Singapore</li>
@@ -79,8 +78,8 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
 <br>  
 ( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
 Distance covered : 56766 kilometres
-That's a 49% decrease in distance covered compared to the original schedule.<br>
-
+That's a 49% decrease in distance covered compared to the original schedule<br>
+<br>
 
 <b>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about.</b>
   
