@@ -6,9 +6,11 @@ In light of recent awarenss about carbon footprint of humans and their activites
 In 2019, F1 decided to go one step further. They announced their plans to have net zero carbon footprint by 2030.
 
 <h2>Objective</h2>
-Inspired by F1's plans, I tried my hands at solving their fixtures issue. The 2020 season will go on as follows :
+Inspired by F1's plans, I tried my hands at solving their fixtures issue. 
+<br>
+The 2020 season will go on as follows :
 
-<ul type="circle">
+<ul type="disc">
   <li>Melbourne</li>
   <li>Sakhir</li>
   <li>Hanoi</li>
@@ -37,8 +39,9 @@ Inspired by F1's plans, I tried my hands at solving their fixtures issue. The 20
   <br>
 Distance covered : 111500 kilometres
 That's huge ! For comparison, radius of earth is 6371 kilometres.
-
-Do you see how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 runds later. 
+<br>
+Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 runds later !
+<br>
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
 
@@ -52,7 +55,7 @@ This is an attempt to create an optimized F1 calendar to cut down unecessary tra
 Personally, I was bewildered by the solutions I got from this program. They seemed too be good to be true !  
 Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be :
 
-<ul type="circle">
+<ul type="disc">
 <li>Melbourne</li>
 <li>Singapore</li>
 <li>Hanoi</li>
@@ -78,12 +81,12 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
   </ul>
 <br>  
 ( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )
-
+<br>
 Distance covered : 56766 kilometres
 That's a 49% decrease in distance covered compared to the original schedule.
 
-
-This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about. 
+<br>
+<b>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing in circles. There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't even know about.</b>
   
 
 
