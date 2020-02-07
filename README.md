@@ -7,7 +7,7 @@ F1 is the world's most watched and followed motorsports category. A F1 season co
 <h2>Technologies/Languages</h2>
 <ul type="disc">
   <li>Python</li>
-  <li><a href="https://developers.google.com/optimization">Google OR-Tools</a></li>
+  <li><a href="https://developers.google.com/optimization" target="_blank">Google OR-Tools</a></li>
 
 
 Personally, I was bewildered by the solutions I got from this program. They seem too be good to be true ! 
