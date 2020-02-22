@@ -37,7 +37,7 @@ The 2020 season will go on as follows :<br>
 
 <p>Here is how the race venues are spread across the globe.</p> For a better view, you can check this link : https://www.google.co.in/maps/d/embed?mid=1NdmzZXl0rjE5nkcstBRkiW2_4mVQxpvy
 
-<img src = "Site-Assets/Race-venues.PNG">
+<img src = "Other Assets/Race-venues.PNG">
 
   <br>
 Distance covered : 111500 kilometres. That's huge ! For comparison, radius of earth is 6371 kilometres.<br>
