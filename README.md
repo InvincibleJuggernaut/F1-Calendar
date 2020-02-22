@@ -35,12 +35,12 @@ The 2020 season will go on as follows :<br>
   <li>Abu Dhabi</li>
   </ul>
 
-<p>Here is how the race venues are spread across the globe. For a better view, you can check this link : https://www.google.co.in/maps/d/embed?mid=1NdmzZXl0rjE5nkcstBRkiW2_4mVQxpvy </p>
+<p>Enclosed below is an map with the markers denoting the race venues spread across the globe. For a better view, you can check this link : https://www.google.co.in/maps/d/embed?mid=1NdmzZXl0rjE5nkcstBRkiW2_4mVQxpvy </p>
 <br>
 <hr>
-
 <img src = "Other Assets/Race-venues.PNG">
 <hr>
+<br>
 
   <br>
 Distance covered : 111500 kilometres. That's huge ! For comparison, radius of earth is 6371 kilometres.<br>
