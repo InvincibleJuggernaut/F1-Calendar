@@ -44,7 +44,7 @@ The 2020 season will go on as follows :<br>
 
   <br>
 Distance covered : 111500 kilometres. That's huge ! For comparison, radius of earth is 6371 kilometres.<br>
-Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 runds later !<br>
+Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 rounds later !<br>
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
 
@@ -55,7 +55,7 @@ This is an attempt to create an optimized F1 calendar to cut down unecessary tra
   </ul>
 
 <h2>Conclusions</h2>
-Personally, I was bewildered by the solutions I got from this program. They seemed too be good to be true !  <br>
+Personally, I was bewildered by the solutions I got from this program. They seemed too good to be true !  <br>
 Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be : <br>
 <ul type="disc">
 <li>Melbourne</li>
