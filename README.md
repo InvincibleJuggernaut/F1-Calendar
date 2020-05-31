@@ -92,8 +92,12 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
   </ul>
 <br>
 <br>
-<p> The second map gets altered with striking differences after following this newly obtaines order. Take a look.
-  <img src="Improved Races before-after the break.PNG">
+<p> The second map gets altered with striking differences after following this newly obtained order. It is clearly visible that the races follow a more coherent schedule. The races before the halfway point of the seaon are marked with red markrs and the others are marked with green markers. Take a look.
+<br>
+<hr>
+<img src="Improved Races before-after the break.PNG">
+<hr>
+<br>
 
 ( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
 Distance covered : 43703 kilometres
