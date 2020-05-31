@@ -45,6 +45,11 @@ The 2020 season will go on as follows :<br>
   <br>
 Distance covered : 111500 kilometres. That's huge ! For comparison, radius of earth is 6371 kilometres.<br>
 Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 rounds later !<br>
+
+<p> To emphasise this point, I would like to tell you about the summer break in between the season. It's usually a gap of 3 weeks which takes place during July-August. During this period, no races take place. So, the first half of the season ends by the race at Hungary and then the season again resumes some 3 weeks later at Belgium. According to the original schedule, I have created another map which shows the races in the first half with red indicators and the races after the break with green indicators. This can be achieved by tweaking the code <a href= "plotter.py">here</a>.
+From this, one can see that the races are spread all over the continents. After having some races in Europe in the first half of the season, the competition again returns to Europe in the second half.
+ <img src="
+
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
 
