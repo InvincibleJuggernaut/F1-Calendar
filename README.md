@@ -35,10 +35,10 @@ The 2020 season will go on as follows :<br>
   <li>Abu Dhabi</li>
   </ul>
 
-<p>Enclosed below is an map with the markers denoting the race venues spread across the globe. For a better view, you can check this link : https://www.google.co.in/maps/d/embed?mid=1NdmzZXl0rjE5nkcstBRkiW2_4mVQxpvy </p>
+<p>Enclosed below is an map with the markers denoting the race venues spread across the globe.</p>
 <br>
 <hr>
-<img src = "Other Assets/Race-venues.PNG">
+<img src = "F1-Calendar/image.PNG">
 <hr>
 <br>
 
