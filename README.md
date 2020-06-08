@@ -104,7 +104,7 @@ Distance covered : 43703 kilometres
 <b><i>That's a 60% decrease in distance covered compared to the original schedule.</i></b><br>
 <br>
 
-<i>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing around in circles ! There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't concern too much about. Yet, making such changes to the schedule which drastically reduce the carbon footprint and removes Abu Dhabi as the season finale shouldn't hurt anyone and would be a welcome decision among the F1 fandom.</i>
+<i>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing around in circles ! There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't concern too much about. Yet, making such changes to the schedule which drastically reduces the carbon footprint and removes Abu Dhabi as the season finale shouldn't hurt anyone and would be a welcome decision among the F1 fandom.</i>
   
 
 
