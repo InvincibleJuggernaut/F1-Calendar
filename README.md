@@ -5,6 +5,12 @@ F1 is the world's most watched and followed motorsports category. A F1 season co
 In light of recent awarenss about carbon footprint of humans and their activites as a whole, which impacts the planet directly and us indirectly, F1 recently decided to make the sport more "planet-friendly". In 2014, they decided to use hybrid engines which are 50% more efficent than the previous V10s.
 In 2019, F1 decided to go one step further. They announced their plans to have net zero carbon footprint by 2030.
 
+<h2>Technologies/Languages</h2>
+<ul type="disc">
+  <li>Python</li>
+  <li><a href="https://developers.google.com/optimization" target="_blank">Google OR-Tools</a></li>
+  </ul>
+
 <h2>Objective</h2>
 Inspired by F1's plans, I tried my hands at solving their fixtures issue. 
 <br>
@@ -56,12 +62,6 @@ Do you observe how the season begins in Australia, goes to Middle-East in Bahrai
 <br>
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
-
-<h2>Technologies/Languages</h2>
-<ul type="disc">
-  <li>Python</li>
-  <li><a href="https://developers.google.com/optimization" target="_blank">Google OR-Tools</a></li>
-  </ul>
 
 <h2>Conclusions</h2>
 Personally, I was bewildered by the solutions I got from this program. They seemed too good to be true !  <br>
