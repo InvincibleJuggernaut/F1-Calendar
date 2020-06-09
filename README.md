@@ -10,7 +10,7 @@ In 2019, F1 decided to go one step further. They announced their plans to have n
   <li>Python</li>
   <li><a href="https://developers.google.com/optimization" target="_blank">Google OR-Tools</a></li>
   <li><a href="https://github.com/python-visualization/folium" target="_blank">folium</a></li>
-  </ul>
+ </ul>
 
 <h2>Objective</h2>
 Inspired by F1's plans, I tried my hands at solving their fixtures issue. 
