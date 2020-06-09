@@ -9,6 +9,7 @@ In 2019, F1 decided to go one step further. They announced their plans to have n
 <ul type="disc">
   <li>Python</li>
   <li><a href="https://developers.google.com/optimization" target="_blank">Google OR-Tools</a></li>
+  <li><a href="https://github.com/python-visualization/folium">folium</a></li>
   </ul>
 
 <h2>Objective</h2>
