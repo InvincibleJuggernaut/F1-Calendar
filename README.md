@@ -1,5 +1,6 @@
 # F1-Calendar
 [![](https://img.shields.io/badge/MADE%20WITH%20-Python-blueviolet)](https://www.python.org)
+[![](https://img.shields.io/badge/Maintained%20%3F-Yes-brightgreen)](https://github.com/InvincibleJuggernaut/F1-Calendar)
 
 <h2>Introduction</h2>
 F1 is the world's most watched and followed motorsports category. A F1 season comprises of almost a dozen and a half races to be held across almost 10 months over different circuits in different countries. The 2020 calendar comprises of 22 races.
