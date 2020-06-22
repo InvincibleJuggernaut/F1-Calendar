@@ -102,7 +102,7 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
 <hr>
 <br>
 
-( Yeah, Abu Dhabi won't be the season fnale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
+( Yeah, Abu Dhabi won't be the season finale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
 Distance covered : 43703 kilometres
 <b><i>That's a 60% decrease in distance covered compared to the original schedule.</i></b><br>
 <br>
