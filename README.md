@@ -47,11 +47,10 @@ The 2020 season will go on as follows :<br>
 <p>Enclosed below is an map with the markers denoting the race venues spread across the globe.</p>
 <br>
 <hr>
-![](image.png)
+<img src="image.png">
 <hr>
 <br>
-
-  <br>
+<br>
 Distance covered : 111500 kilometres. That's huge ! For comparison, radius of earth is 6371 kilometres.<br>
 Do you observe how the season begins in Australia, goes to Middle-East in Bahrain, then again goes in the opposite direction to Vietnam in Asia, then Shangai and then Netherlands only to return to Asia again 10 rounds later !<br>
 
