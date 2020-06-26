@@ -46,9 +46,9 @@ The 2020 season will go on as follows :<br>
 
 <p>Enclosed below is an map with the markers denoting the race venues spread across the globe.</p>
 <br>
-
+<hr>
 ![](image.png)
-
+<hr>
 <br>
 
   <br>
