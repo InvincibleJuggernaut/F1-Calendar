@@ -65,7 +65,7 @@ Do you observe how the season begins in Australia, goes to Middle-East in Bahrai
 This is an attempt to create an optimized F1 calendar to cut down unecessary travelling back and forth between continents during a F1 season. 
 
 
-<h2>Conclusions</h2>
+<h2>Results</h2>
 Personally, I was bewildered by the solutions I got from this program. They seemed too good to be true !  <br>
 Such a schedule mightn't make a mammoth difference, but definitely would be a good step in the right direction. The optimized calendar turns out to be : <br>
 <ul type="disc">
@@ -101,9 +101,11 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
 <hr>
 <br>
 
-( Yeah, Abu Dhabi won't be the season finale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. )<br>
+<h2> Conclusions</h2>
+<p>Yeah, Abu Dhabi won't be the season finale. It's not the most popular among us anyway. Brazil will get to host the finale and it does produce brilliant races. So, no issues there. <br>
 Distance covered : 43703 kilometres
 <b><i>That's a 60% decrease in distance covered compared to the original schedule.</i></b><br>
+</p>
 <br>
 
 <i>This is a work in progress. F1 is a huge sport with huge logistical headaches. It's not just about 20 cars racing around in circles ! There is a lot to consider in terms of marketing, gaining the biggest crowd possible during the events, planning to avoid extreme weather conditions and many other parameters which us, the fans don't concern too much about. Yet, making such changes to the schedule which drastically reduces the carbon footprint and removes Abu Dhabi as the season finale shouldn't hurt anyone and would be a welcome decision among the F1 fandom.</i>
