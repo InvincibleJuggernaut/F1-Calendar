@@ -94,7 +94,7 @@ Such a schedule mightn't make a mammoth difference, but definitely would be a go
   </ul>
 <br>
 <br>
-<p> The second map gets altered with striking differences after following this newly obtained order. It is clearly visible that the races follow a more coherent schedule. The races before the halfway point of the seaon are marked with red markrs and the others are marked with green markers. Take a look.
+<p> The second map gets altered with striking differences after following this newly obtained order. It is clearly visible that the races follow a more coherent schedule. The races before the halfway point of the seaon are marked with red markers and the others are marked with green markers. Take a look.
 <br>
 <hr>
 <img src="Improved Races before-after the break.PNG">
